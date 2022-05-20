@@ -6,3 +6,7 @@
     border: 5px solid black;
     font-size: 40px;
 }
+
+.playing{
+    border: 10px solid yellow;
+}
